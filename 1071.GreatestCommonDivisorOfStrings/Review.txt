@@ -1,0 +1,4 @@
+This is kind of instant solution but really bad.
+Runtime : 65ms - beat 69%
+Memory : 53mb - 12.8%
+This can be solved by using Recursive but I haven't thought about this.

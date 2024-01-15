@@ -5,6 +5,8 @@ VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MergeString", "MergeString\MergeString.csproj", "{08E7B043-87EF-4D62-B945-5699EA7DFE33}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1071.GreatestCommonDivisorOfStrings", "..\1071.GreatestCommonDivisorOfStrings\1071.GreatestCommonDivisorOfStrings.csproj", "{2CBBFD00-CDBE-4CB7-91B5-4D4AFC6E20BD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,9 @@ Global
 		{08E7B043-87EF-4D62-B945-5699EA7DFE33}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{08E7B043-87EF-4D62-B945-5699EA7DFE33}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{08E7B043-87EF-4D62-B945-5699EA7DFE33}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2CBBFD00-CDBE-4CB7-91B5-4D4AFC6E20BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2CBBFD00-CDBE-4CB7-91B5-4D4AFC6E20BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2CBBFD00-CDBE-4CB7-91B5-4D4AFC6E20BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2CBBFD00-CDBE-4CB7-91B5-4D4AFC6E20BD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
