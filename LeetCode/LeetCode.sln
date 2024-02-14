@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "605. Can Place Flowers", "6
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "345. Reverse Vowels of a String", "345. Reverse Vowels of a String\345. Reverse Vowels of a String.csproj", "{8E625AC8-832B-4874-BDEC-E3E70467B9AC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "151. Reverse Words in a String", "151. Reverse Words in a String\151. Reverse Words in a String.csproj", "{34C1AD70-5010-4406-AEDC-9CD08D9A68E8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{8E625AC8-832B-4874-BDEC-E3E70467B9AC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8E625AC8-832B-4874-BDEC-E3E70467B9AC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8E625AC8-832B-4874-BDEC-E3E70467B9AC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{34C1AD70-5010-4406-AEDC-9CD08D9A68E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34C1AD70-5010-4406-AEDC-9CD08D9A68E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34C1AD70-5010-4406-AEDC-9CD08D9A68E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34C1AD70-5010-4406-AEDC-9CD08D9A68E8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
