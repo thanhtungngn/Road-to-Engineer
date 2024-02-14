@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34408.163
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp1", "ConsoleApp1\ConsoleApp1.csproj", "{68EEA5E9-6D4F-4487-A71B-644C742B27A9}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1071.GreatestCommonDivisorOfStrings", "1071.GreatestCommonDivisorOfStrings\1071.GreatestCommonDivisorOfStrings.csproj", "{4BF6F41A-6047-4C48-8A92-ADA9C2AD1A2F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1431. Kids With the Greatest Number of Candies", "1431. Kids With the Greatest Number of Candies\1431. Kids With the Greatest Number of Candies\1431. Kids With the Greatest Number of Candies.csproj", "{5556D474-CD6A-470B-8394-161CC1B7F360}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Find-First-Palindromic-String-in-the-Array", "2108. Find First Palindromic String in the Array\Find-First-Palindromic-String-in-the-Array\Find-First-Palindromic-String-in-the-Array\Find-First-Palindromic-String-in-the-Array.csproj", "{98A7BB54-A4B5-4B97-921F-DB942FD8CA39}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{68EEA5E9-6D4F-4487-A71B-644C742B27A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68EEA5E9-6D4F-4487-A71B-644C742B27A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68EEA5E9-6D4F-4487-A71B-644C742B27A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68EEA5E9-6D4F-4487-A71B-644C742B27A9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4BF6F41A-6047-4C48-8A92-ADA9C2AD1A2F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4BF6F41A-6047-4C48-8A92-ADA9C2AD1A2F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4BF6F41A-6047-4C48-8A92-ADA9C2AD1A2F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4BF6F41A-6047-4C48-8A92-ADA9C2AD1A2F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5556D474-CD6A-470B-8394-161CC1B7F360}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5556D474-CD6A-470B-8394-161CC1B7F360}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5556D474-CD6A-470B-8394-161CC1B7F360}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5556D474-CD6A-470B-8394-161CC1B7F360}.Release|Any CPU.Build.0 = Release|Any CPU
+		{98A7BB54-A4B5-4B97-921F-DB942FD8CA39}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98A7BB54-A4B5-4B97-921F-DB942FD8CA39}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98A7BB54-A4B5-4B97-921F-DB942FD8CA39}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98A7BB54-A4B5-4B97-921F-DB942FD8CA39}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BBD6B9A6-2180-42CC-ADD3-7A09010B04AA}
+	EndGlobalSection
+EndGlobal

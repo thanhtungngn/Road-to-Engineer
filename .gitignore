@@ -58,3 +58,11 @@
 /2108. Find First Palindromic String in the Array/Find-First-Palindromic-String-in-the-Array/.vs/ProjectEvaluation/find-first-palindromic-string-in-the-array.metadata.v7.bin
 /2108. Find First Palindromic String in the Array/Find-First-Palindromic-String-in-the-Array/.vs/ProjectEvaluation/find-first-palindromic-string-in-the-array.projects.v7.bin
 /1431. Kids With the Greatest Number of Candies/.vs/1431. Kids With the Greatest Number of Candies
+/LeetCode/.vs/LeetCode
+/LeetCode/ConsoleApp1/obj
+*.cs
+*.cache
+*.editorconfig
+*.props
+*.targets
+*.json
