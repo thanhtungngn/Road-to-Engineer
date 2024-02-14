@@ -3,13 +3,17 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.8.34408.163
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp1", "ConsoleApp1\ConsoleApp1.csproj", "{68EEA5E9-6D4F-4487-A71B-644C742B27A9}"
-EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1071.GreatestCommonDivisorOfStrings", "1071.GreatestCommonDivisorOfStrings\1071.GreatestCommonDivisorOfStrings.csproj", "{4BF6F41A-6047-4C48-8A92-ADA9C2AD1A2F}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1431. Kids With the Greatest Number of Candies", "1431. Kids With the Greatest Number of Candies\1431. Kids With the Greatest Number of Candies\1431. Kids With the Greatest Number of Candies.csproj", "{5556D474-CD6A-470B-8394-161CC1B7F360}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Find-First-Palindromic-String-in-the-Array", "2108. Find First Palindromic String in the Array\Find-First-Palindromic-String-in-the-Array\Find-First-Palindromic-String-in-the-Array\Find-First-Palindromic-String-in-the-Array.csproj", "{98A7BB54-A4B5-4B97-921F-DB942FD8CA39}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2149. Rearrange Array Elements by Sign", "2149. Rearrange Array Elements by Sign\2149. Rearrange Array Elements by Sign.csproj", "{3B0B9227-D516-4A56-88E5-3FA5A4965F09}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Common", "Common\Common.csproj", "{4AEC3B7A-312F-45A0-8DF5-74CAD1D6C100}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "605. Can Place Flowers", "605. Can Place Flowers\605. Can Place Flowers.csproj", "{886BFDB4-C76E-443C-9DF0-97328BC16329}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,10 +21,6 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{68EEA5E9-6D4F-4487-A71B-644C742B27A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{68EEA5E9-6D4F-4487-A71B-644C742B27A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{68EEA5E9-6D4F-4487-A71B-644C742B27A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{68EEA5E9-6D4F-4487-A71B-644C742B27A9}.Release|Any CPU.Build.0 = Release|Any CPU
 		{4BF6F41A-6047-4C48-8A92-ADA9C2AD1A2F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{4BF6F41A-6047-4C48-8A92-ADA9C2AD1A2F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4BF6F41A-6047-4C48-8A92-ADA9C2AD1A2F}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -33,6 +33,18 @@ Global
 		{98A7BB54-A4B5-4B97-921F-DB942FD8CA39}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{98A7BB54-A4B5-4B97-921F-DB942FD8CA39}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{98A7BB54-A4B5-4B97-921F-DB942FD8CA39}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3B0B9227-D516-4A56-88E5-3FA5A4965F09}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B0B9227-D516-4A56-88E5-3FA5A4965F09}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B0B9227-D516-4A56-88E5-3FA5A4965F09}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B0B9227-D516-4A56-88E5-3FA5A4965F09}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4AEC3B7A-312F-45A0-8DF5-74CAD1D6C100}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4AEC3B7A-312F-45A0-8DF5-74CAD1D6C100}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4AEC3B7A-312F-45A0-8DF5-74CAD1D6C100}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4AEC3B7A-312F-45A0-8DF5-74CAD1D6C100}.Release|Any CPU.Build.0 = Release|Any CPU
+		{886BFDB4-C76E-443C-9DF0-97328BC16329}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{886BFDB4-C76E-443C-9DF0-97328BC16329}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{886BFDB4-C76E-443C-9DF0-97328BC16329}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{886BFDB4-C76E-443C-9DF0-97328BC16329}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

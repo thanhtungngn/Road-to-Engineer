@@ -1,7 +1,7 @@
 ﻿// See https://aka.ms/new-console-template for more information
-using System.Runtime.CompilerServices;
+using Common;
 
-Console.WriteLine(CanPlaceFlowers([1, 0, 0, 0, 1], 1));
+//Console.WriteLine(CanPlaceFlowers([1, 0, 0, 0, 1], 1));
 Console.WriteLine(CanPlaceFlowers([1, 0, 0, 0, 1], 2));
 
 bool CanPlaceFlowers(int[] flowerbed, int n)
@@ -32,6 +32,7 @@ bool CanPlaceFlowers(int[] flowerbed, int n)
                     }
                 }
             }
+            
             else if(i == flowerbed.Length-1)
             {
                 if (flowerbed[i] == 0)
@@ -43,9 +44,10 @@ bool CanPlaceFlowers(int[] flowerbed, int n)
                     }
                 }
             }
+
             else
             {
-                if (flowerbed[i] == 0 && flowerbed[i-1] !=0 && flowerbed[i+1] !=0) {
+                if (flowerbed[i] == 0 && flowerbed[i-1] ==0 && flowerbed[i+1] ==0) {
                     flowerbed[i] = 1;
                     n = n - 1;
                 }
@@ -53,8 +55,9 @@ bool CanPlaceFlowers(int[] flowerbed, int n)
 
         }
     }
+    Console.WriteLine(flowerbed.Print());
 
-    return n >= 0;
+    return n <= 0;
 
 
 }
