@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "151. Reverse Words in a Str
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "238. Product of Array Except Self", "238. Product of Array Except Self\238. Product of Array Except Self.csproj", "{4CDC519E-7ECE-4FFD-9A0A-21CD503E5DBE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2971. Find Polygon With the Largest Perimeter", "2971. Find Polygon With the Largest Perimeter\2971. Find Polygon With the Largest Perimeter.csproj", "{F34F170F-DC3C-4703-AD9B-14C381FAFA13}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +65,10 @@ Global
 		{4CDC519E-7ECE-4FFD-9A0A-21CD503E5DBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4CDC519E-7ECE-4FFD-9A0A-21CD503E5DBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4CDC519E-7ECE-4FFD-9A0A-21CD503E5DBE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F34F170F-DC3C-4703-AD9B-14C381FAFA13}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F34F170F-DC3C-4703-AD9B-14C381FAFA13}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F34F170F-DC3C-4703-AD9B-14C381FAFA13}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F34F170F-DC3C-4703-AD9B-14C381FAFA13}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
