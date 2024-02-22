@@ -29,13 +29,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2966. Divide Array Into Arr
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1642. Furthest Building You Can Reach", "1642. Furthest Building You Can Reach\1642. Furthest Building You Can Reach.csproj", "{DE47CFB1-1551-4C88-99DC-759C83D05481}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "268. Missing Number", "268. Missing Number\268. Missing Number.csproj", "{F0C5AA4E-96E8-4064-B3C1-787F260E665C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "268. Missing Number", "268. Missing Number\268. Missing Number.csproj", "{F0C5AA4E-96E8-4064-B3C1-787F260E665C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "231. Power of Two", "231. Power of Two\231. Power of Two.csproj", "{EB7C37D7-D7EB-4626-8307-A805105D170E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "231. Power of Two", "231. Power of Two\231. Power of Two.csproj", "{EB7C37D7-D7EB-4626-8307-A805105D170E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2402. Meeting Rooms III", "2402. Meeting Rooms III\2402. Meeting Rooms III.csproj", "{5CD62777-932C-4FC8-9722-928FC070F7A6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2402. Meeting Rooms III", "2402. Meeting Rooms III\2402. Meeting Rooms III.csproj", "{5CD62777-932C-4FC8-9722-928FC070F7A6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "201. Bitwise AND of Numbers Range", "201. Bitwise AND of Numbers Range\201. Bitwise AND of Numbers Range.csproj", "{8CB52814-7941-42AB-B627-24CC8FE3EDB8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "201. Bitwise AND of Numbers Range", "201. Bitwise AND of Numbers Range\201. Bitwise AND of Numbers Range.csproj", "{8CB52814-7941-42AB-B627-24CC8FE3EDB8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "997. Find the Town Judge", "997. Find the Town Judge\997. Find the Town Judge.csproj", "{26B23EAD-8DAC-4E9A-A560-BB37D09DFA2A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -111,6 +113,10 @@ Global
 		{8CB52814-7941-42AB-B627-24CC8FE3EDB8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8CB52814-7941-42AB-B627-24CC8FE3EDB8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8CB52814-7941-42AB-B627-24CC8FE3EDB8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{26B23EAD-8DAC-4E9A-A560-BB37D09DFA2A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26B23EAD-8DAC-4E9A-A560-BB37D09DFA2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26B23EAD-8DAC-4E9A-A560-BB37D09DFA2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26B23EAD-8DAC-4E9A-A560-BB37D09DFA2A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
