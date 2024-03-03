@@ -28,6 +28,31 @@
             }
             return result;
         }
+
+        public static string Print(this ListNode listNode)
+        {
+            var result = String.Empty;
+            while (listNode != null)
+            {
+                result = result + listNode.val + "->";
+                listNode = listNode.next;
+            }
+            result = result + "null";
+            return result;
+        }
+    }
+
+    public class ListNode
+    {
+        public int val;
+        public ListNode next;
+        public ListNode(int val = 0, ListNode next = null)
+        {
+            this.val = val;
+            this.next = next;
+        }
     }
 
 }
+
+
