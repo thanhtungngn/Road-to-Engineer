@@ -59,7 +59,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "948. Bag of Tokens", "948. 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1750. Minimum Length of String After Deleting Similar Ends", "1750. Minimum Length of String After Deleting Similar Ends\1750. Minimum Length of String After Deleting Similar Ends.csproj", "{034896BB-11F5-4176-BD83-A5379977E172}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "876. Middle of the Linked List", "876. Middle of the Linked List\876. Middle of the Linked List.csproj", "{960D8C07-E779-49E5-BC6C-D37F1EC633D4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "876. Middle of the Linked List", "876. Middle of the Linked List\876. Middle of the Linked List.csproj", "{960D8C07-E779-49E5-BC6C-D37F1EC633D4}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "3005. Count Elements With Maximum Frequency", "3005. Count Elements With Maximum Frequency\3005. Count Elements With Maximum Frequency.csproj", "{97989635-6889-4E3C-A20C-9B6D55C3F700}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "334. Increasing Triplet Subsequence", "334. Increasing Triplet Subsequence\334. Increasing Triplet Subsequence.csproj", "{8CABDCEB-D3E5-4CDD-9960-09134D9BCD42}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2540. Minimum Common Value", "2540. Minimum Common Value\2540. Minimum Common Value.csproj", "{F5B7E280-E68C-4139-ABEC-171BD2656B11}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -183,6 +189,18 @@ Global
 		{960D8C07-E779-49E5-BC6C-D37F1EC633D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{960D8C07-E779-49E5-BC6C-D37F1EC633D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{960D8C07-E779-49E5-BC6C-D37F1EC633D4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{97989635-6889-4E3C-A20C-9B6D55C3F700}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97989635-6889-4E3C-A20C-9B6D55C3F700}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97989635-6889-4E3C-A20C-9B6D55C3F700}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97989635-6889-4E3C-A20C-9B6D55C3F700}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8CABDCEB-D3E5-4CDD-9960-09134D9BCD42}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8CABDCEB-D3E5-4CDD-9960-09134D9BCD42}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8CABDCEB-D3E5-4CDD-9960-09134D9BCD42}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8CABDCEB-D3E5-4CDD-9960-09134D9BCD42}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F5B7E280-E68C-4139-ABEC-171BD2656B11}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5B7E280-E68C-4139-ABEC-171BD2656B11}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5B7E280-E68C-4139-ABEC-171BD2656B11}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5B7E280-E68C-4139-ABEC-171BD2656B11}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
