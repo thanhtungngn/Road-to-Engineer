@@ -9,6 +9,13 @@
 
         }
 
+        public static string Print(this IList<string> array)
+        {
+            var result = String.Join(", ", array);
+            return result;
+
+        }
+
         public static string Print(this long[] array)
         {
             var result = String.Join(", ", array);
@@ -34,10 +41,10 @@
             var result = String.Empty;
             while (listNode != null)
             {
-                result = result + listNode.val + "->";
+                result = result + listNode.val + " -> ";
                 listNode = listNode.next;
             }
-            result = result + "null";
+            result = result + " null";
             return result;
         }
     }
@@ -51,7 +58,23 @@
             this.val = val;
             this.next = next;
         }
+
+        public ListNode ReverseList(ListNode head)
+        {
+            if (head == null) return null;
+            var newHead = new ListNode(head.val, null);
+
+            while (head.next != null)
+            {
+                newHead = new ListNode(head.next.val, newHead);
+                head = head.next;
+            }
+
+            return newHead;
+        }
     }
+
+   
 
 }
 
