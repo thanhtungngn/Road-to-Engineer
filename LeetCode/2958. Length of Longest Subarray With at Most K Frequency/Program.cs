@@ -39,19 +39,18 @@ int MaxSubarrayLength(int[] nums, int k)
                 else
                 {
                     freq[nums[end]]++;
-                    end++;
-                    subLength++;
+                   
                 }
 
             }
             else
             {
                 freq.Add(nums[end], 1);
-                end++;
-                subLength++;
+                
             }
+            end++;
+            subLength++;
 
-           
         }
 
         if (subLength > result)

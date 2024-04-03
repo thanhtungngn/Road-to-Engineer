@@ -99,7 +99,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "41. First Missing Positive"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "713. Subarray Product Less Than K", "713. Subarray Product Less Than K\713. Subarray Product Less Than K.csproj", "{EF244EF7-DDE2-49F3-9513-1A69B47D54A5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2958. Length of Longest Subarray With at Most K Frequency", "2958. Length of Longest Subarray With at Most K Frequency\2958. Length of Longest Subarray With at Most K Frequency.csproj", "{95DB7254-7A7B-46CD-A1FC-959B6EA27548}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2958. Length of Longest Subarray With at Most K Frequency", "2958. Length of Longest Subarray With at Most K Frequency\2958. Length of Longest Subarray With at Most K Frequency.csproj", "{95DB7254-7A7B-46CD-A1FC-959B6EA27548}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2962. Count Subarrays Where Max Element Appears at Least K Times", "2962. Count Subarrays Where Max Element Appears at Least K Times\2962. Count Subarrays Where Max Element Appears at Least K Times.csproj", "{3969AA94-CD45-455C-AF4F-A52A6533CD6A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "58. Length of Last Word", "58. Length of Last Word\58. Length of Last Word.csproj", "{22A62103-C254-4DFE-A24C-C4435206EAAF}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "205. Isomorphic Strings", "205. Isomorphic Strings\205. Isomorphic Strings.csproj", "{938CBDDE-B0D9-445C-9E29-B7576E7C6432}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "79. Word Search", "79. Word Search\79. Word Search.csproj", "{21D73759-A861-419A-806F-4D1D597696A4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -303,6 +311,22 @@ Global
 		{95DB7254-7A7B-46CD-A1FC-959B6EA27548}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{95DB7254-7A7B-46CD-A1FC-959B6EA27548}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{95DB7254-7A7B-46CD-A1FC-959B6EA27548}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3969AA94-CD45-455C-AF4F-A52A6533CD6A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3969AA94-CD45-455C-AF4F-A52A6533CD6A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3969AA94-CD45-455C-AF4F-A52A6533CD6A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3969AA94-CD45-455C-AF4F-A52A6533CD6A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{22A62103-C254-4DFE-A24C-C4435206EAAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22A62103-C254-4DFE-A24C-C4435206EAAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22A62103-C254-4DFE-A24C-C4435206EAAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22A62103-C254-4DFE-A24C-C4435206EAAF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{938CBDDE-B0D9-445C-9E29-B7576E7C6432}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{938CBDDE-B0D9-445C-9E29-B7576E7C6432}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{938CBDDE-B0D9-445C-9E29-B7576E7C6432}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{938CBDDE-B0D9-445C-9E29-B7576E7C6432}.Release|Any CPU.Build.0 = Release|Any CPU
+		{21D73759-A861-419A-806F-4D1D597696A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21D73759-A861-419A-806F-4D1D597696A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21D73759-A861-419A-806F-4D1D597696A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21D73759-A861-419A-806F-4D1D597696A4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
