@@ -107,7 +107,17 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "58. Length of Last Word", "
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "205. Isomorphic Strings", "205. Isomorphic Strings\205. Isomorphic Strings.csproj", "{938CBDDE-B0D9-445C-9E29-B7576E7C6432}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "79. Word Search", "79. Word Search\79. Word Search.csproj", "{21D73759-A861-419A-806F-4D1D597696A4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "79. Word Search", "79. Word Search\79. Word Search.csproj", "{21D73759-A861-419A-806F-4D1D597696A4}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1614. Maximum Nesting Depth of the Parentheses", "1614. Maximum Nesting Depth of the Parentheses\1614. Maximum Nesting Depth of the Parentheses.csproj", "{2582976C-E078-4D65-ADE5-EF053E674964}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1544. Make The String Great", "1544. Make The String Great\1544. Make The String Great.csproj", "{5DE3929C-7863-4967-B626-41EE5489119F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1249. Minimum Remove to Make Valid Parentheses", "1249. Minimum Remove to Make Valid Parentheses\1249. Minimum Remove to Make Valid Parentheses.csproj", "{80BA3EF5-838C-4AFA-868E-63877E908263}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "678. Valid Parenthesis String", "678. Valid Parenthesis String\678. Valid Parenthesis String.csproj", "{B08FC8E0-7EC3-4F34-AD8E-A3ED6F4D7E1C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1700. Number of Students Unable to Eat Lunch", "1700. Number of Students Unable to Eat Lunch\1700. Number of Students Unable to Eat Lunch.csproj", "{667648FC-E318-4C45-ADE9-0393E4BF8B7B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -327,6 +337,26 @@ Global
 		{21D73759-A861-419A-806F-4D1D597696A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{21D73759-A861-419A-806F-4D1D597696A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{21D73759-A861-419A-806F-4D1D597696A4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2582976C-E078-4D65-ADE5-EF053E674964}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2582976C-E078-4D65-ADE5-EF053E674964}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2582976C-E078-4D65-ADE5-EF053E674964}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2582976C-E078-4D65-ADE5-EF053E674964}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5DE3929C-7863-4967-B626-41EE5489119F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5DE3929C-7863-4967-B626-41EE5489119F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5DE3929C-7863-4967-B626-41EE5489119F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5DE3929C-7863-4967-B626-41EE5489119F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{80BA3EF5-838C-4AFA-868E-63877E908263}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80BA3EF5-838C-4AFA-868E-63877E908263}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80BA3EF5-838C-4AFA-868E-63877E908263}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80BA3EF5-838C-4AFA-868E-63877E908263}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B08FC8E0-7EC3-4F34-AD8E-A3ED6F4D7E1C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B08FC8E0-7EC3-4F34-AD8E-A3ED6F4D7E1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B08FC8E0-7EC3-4F34-AD8E-A3ED6F4D7E1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B08FC8E0-7EC3-4F34-AD8E-A3ED6F4D7E1C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{667648FC-E318-4C45-ADE9-0393E4BF8B7B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{667648FC-E318-4C45-ADE9-0393E4BF8B7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{667648FC-E318-4C45-ADE9-0393E4BF8B7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{667648FC-E318-4C45-ADE9-0393E4BF8B7B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
