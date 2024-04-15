@@ -26,8 +26,9 @@
         public static string Print(this int[][] array)
         {
             var result = string.Empty;
-            for (int i = 0; i < array.Length; i++) {
-                if (array[i] != null )
+            for (int i = 0; i < array.Length; i++)
+            {
+                if (array[i] != null)
                 {
                     result += string.Join(", ", array[i]) + "\n";
 
@@ -46,6 +47,13 @@
             }
             result = result + " null";
             return result;
+        }
+
+        public static string Print(this char[] array)
+        {
+            var result = String.Join(", ", array);
+            return result;
+
         }
     }
 
@@ -74,8 +82,21 @@
         }
     }
 
-   
 
+    public class TreeNode
+    {
+        public int val;
+        public TreeNode left;
+        public TreeNode right;
+        public TreeNode(int val = 0, TreeNode left = null, TreeNode right = null)
+        {
+            this.val = val;
+            this.left = left;
+            this.right = right;
+        }
+
+     
+    }
 }
 
 
